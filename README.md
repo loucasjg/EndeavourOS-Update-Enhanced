@@ -21,6 +21,7 @@ A Bash script to quickly and safely update your EndeavourOS system, including AU
 ## Important Notes
 
 - **Keep the credit:** The header includes `Made by LoucasJG`. Please do not remove or change it when using or modifying this script.
+- **Desktop file:** You can modify the eos-update system .desktop file to ensure that the .desktop launches the eos-full-update.sh script instead of the system script.
 - **Mirror countries:** By default, the script uses `France, Germany, Netherlands, Switzerland, Belgium`. Change this according to your location for optimal speeds:
 
 ```bash
