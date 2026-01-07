@@ -29,5 +29,18 @@ A Bash script to quickly and safely update your EndeavourOS system, including AU
 ```bash
 sudo reflector --latest 20 --country France,Germany,Netherlands,Switzerland,Belgium ...
 ```
+---
+
+## How to Use
+
+- **Download the script:** Clone the repository or download `eos-full-update.sh` directly from GitHub.
+- **Make it executable:**  
+  ```bash
+  chmod +x eos-full-update.sh
+  ```
+- **Run the Script:**
+  ```bash
+  ./eos-full-update.sh
+  
 <img width="985" height="626" alt="image" src="https://github.com/user-attachments/assets/9a64fa0d-9767-4567-9dc5-3123fabd4b3e" />
 <img width="985" height="626" alt="image" src="https://github.com/user-attachments/assets/cf82c915-89dd-41a1-a70e-e9016505a88f" />
