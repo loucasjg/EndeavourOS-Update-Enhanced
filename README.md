@@ -1,4 +1,6 @@
 <img width="985" height="626" alt="image" src="https://github.com/user-attachments/assets/23afdc7c-236e-4488-8a03-59e0704e33cb" />
+<img width="985" height="626" alt="image" src="https://github.com/user-attachments/assets/d4e329c4-0be5-4ecb-b5f7-56abb6f6b328" />
+<img width="985" height="626" alt="image" src="https://github.com/user-attachments/assets/b3acd649-b6c5-45d9-b934-d91926440e4c" />
 
 
 # EOS Full Update Script
