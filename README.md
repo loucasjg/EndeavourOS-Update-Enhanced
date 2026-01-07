@@ -1,3 +1,6 @@
+<img width="985" height="626" alt="image" src="https://github.com/user-attachments/assets/23afdc7c-236e-4488-8a03-59e0704e33cb" />
+
+
 # EOS Full Update Script
 
 **Made by loucasjg** – ⚠️ Please do not remove or alter this credit.
