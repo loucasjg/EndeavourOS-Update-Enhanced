@@ -7,6 +7,8 @@
 A Bash script to quickly and safely update your EndeavourOS system, including AUR and Flatpak packages, clean caches and logs, and optionally optimize Pacman mirrors for faster downloads.
 
 ![Release](https://img.shields.io/github/v/release/loucasjg/EndeavourOS-Full-Update)
+![License](https://img.shields.io/github/license/loucasjg/EndeavourOS-Full-Update)
+![OS](https://img.shields.io/badge/OS-EndeavourOS-blue)
 
 ---
 
