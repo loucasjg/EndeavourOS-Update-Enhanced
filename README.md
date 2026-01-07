@@ -1,7 +1,4 @@
 <img width="985" height="626" alt="image" src="https://github.com/user-attachments/assets/23afdc7c-236e-4488-8a03-59e0704e33cb" />
-<img width="985" height="626" alt="image" src="https://github.com/user-attachments/assets/d4e329c4-0be5-4ecb-b5f7-56abb6f6b328" />
-<img width="985" height="626" alt="image" src="https://github.com/user-attachments/assets/b3acd649-b6c5-45d9-b934-d91926440e4c" />
-
 
 # EOS Full Update Script
 
@@ -31,3 +28,6 @@ A Bash script to quickly and safely update your EndeavourOS system, including AU
 
 ```bash
 sudo reflector --latest 20 --country France,Germany,Netherlands,Switzerland,Belgium ...
+```
+<img width="985" height="626" alt="image" src="https://github.com/user-attachments/assets/9a64fa0d-9767-4567-9dc5-3123fabd4b3e" />
+<img width="985" height="626" alt="image" src="https://github.com/user-attachments/assets/cf82c915-89dd-41a1-a70e-e9016505a88f" />
