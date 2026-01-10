@@ -1,7 +1,7 @@
 #!/bin/bash
 # =========================================================
 # EOS Full Update Script
-# Made by LoucasJG - https://github.com/tonrepo
+# Made by LoucasJG - https://github.com/loucasjg/EndeavourOS-Full-Update
 # Please do not remove or alter this credit.
 # =========================================================
 
